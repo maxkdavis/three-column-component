@@ -10,7 +10,7 @@ Create a card that's responsize to the user's device screen size. For desktop vi
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://maxkdavis.github.io/three-column-component/
 
 ### Built with
 
